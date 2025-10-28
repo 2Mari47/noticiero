@@ -74,6 +74,10 @@
                   echo $internacional["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1645605357034-f32b3960fc37?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=435" alt="Crisis energética en Europa" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -98,6 +102,10 @@
                   echo $nacional["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://plus.unsplash.com/premium_photo-1697729476736-18a05381123f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687" alt="Emergencia por heladas en Perú" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -131,6 +139,10 @@
                   echo $economia["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://plus.unsplash.com/premium_photo-1678824564711-a051c5a869b0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687" alt="BCR mantiene tasa de interés" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -155,6 +167,10 @@
                   echo $opinion["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1564992236692-63602c83ee19?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=435" alt="Análisis de reforma política" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -188,6 +204,10 @@
                   echo $tecnologia["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://plus.unsplash.com/premium_photo-1683120974913-1ef17fdec2a8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=363" alt="Nuevos procesadores Intel" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -212,6 +232,10 @@
                   echo $ciencia["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://plus.unsplash.com/premium_photo-1719104087061-6f73947c4c43?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=450" alt="Descubrimiento en luna Europa" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>

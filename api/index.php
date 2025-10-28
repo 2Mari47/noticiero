@@ -269,6 +269,10 @@
                   echo $cultura["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1560472355-536de3962603?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Exposición textiles precolombinos" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -293,6 +297,10 @@
                   echo $gente["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Gian Marco anuncia gira" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -327,6 +335,10 @@
                   echo $deportes["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1459865264687-595d652de67e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Selección peruana clasifica" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -351,6 +363,10 @@
                   echo $television["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Al Fondo Hay Sitio regresa" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -375,6 +391,10 @@
                   echo $video["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="YouTube Shorts" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -409,6 +429,10 @@
                   echo $formacion["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="MIT programa IA" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -433,6 +457,10 @@
                   echo $empleo["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Demanda desarrolladores IA" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -457,6 +485,10 @@
                   echo $sociedad["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1559028012-481c04fa702d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Brecha digital rural" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -490,6 +522,10 @@
                   echo $openstack["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="OpenStack Yoga" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -514,6 +550,10 @@
                   echo $git["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="GitHub Copilot X" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -547,6 +587,10 @@
                   echo $contenedores["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="Docker Desktop update" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>
@@ -571,6 +615,10 @@
                   echo $openshift["resumen"];
                 ?>
               </p>
+              <a href="#">Continuar leyendo</a>
+            </div>
+            <div class="col-md-4 p-0">
+              <img class="card-img-right flex-auto d-none d-md-block" src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&h=250&q=80" alt="OpenShift 4.15" style="width: 100%; height: 100%; object-fit: cover;">
             </div>
           </div>
         </div>

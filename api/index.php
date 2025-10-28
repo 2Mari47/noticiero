@@ -30,7 +30,7 @@
       </header>
 
       <?php
-        include("secciones/portada.php");
+        include("api/secciones/portada.php");
       ?>
       <div class="jumbotron p-3 p-md-5 text-white rounded bg-dark">
         <div class="col-md-12 px-0">
@@ -49,8 +49,8 @@
 
       <!-- Fila 1 -->
       <?php
-        include("secciones/internacional.php");
-        include("secciones/nacional.php");
+        include("api/secciones/internacional.php");
+        include("api/secciones/nacional.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
@@ -114,8 +114,8 @@
 
       <!-- Fila 2 -->
       <?php
-        include("secciones/economia.php");
-        include("secciones/opinion.php");
+        include("api/secciones/economia.php");
+        include("api/secciones/opinion.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
@@ -179,8 +179,8 @@
 
       <!-- Fila 3 -->
       <?php
-        include("secciones/tecnologia.php");
-        include("secciones/ciencia.php");
+        include("api/secciones/tecnologia.php");
+        include("api/secciones/ciencia.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
@@ -244,8 +244,8 @@
 
       <!-- Fila 4 -->
       <?php
-        include("secciones/cultura.php");
-        include("secciones/gente.php");
+        include("api/secciones/cultura.php");
+        include("api/secciones/gente.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
@@ -301,9 +301,9 @@
 
       <!-- Fila 5 -->
       <?php
-        include("secciones/deportes.php");
-        include("secciones/television.php");
-        include("secciones/video.php");
+        include("api/secciones/deportes.php");
+        include("api/secciones/television.php");
+        include("api/secciones/video.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-4">
@@ -383,9 +383,9 @@
 
       <!-- Fila 6 -->
       <?php
-        include("secciones/formacion.php");
-        include("secciones/empleo.php");
-        include("secciones/sociedad.php");
+        include("api/secciones/formacion.php");
+        include("api/secciones/empleo.php");
+        include("api/secciones/sociedad.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-4">
@@ -465,8 +465,8 @@
 
       <!-- Fila 7 -->
       <?php
-        include("secciones/openstack.php");
-        include("secciones/git.php");
+        include("api/secciones/openstack.php");
+        include("api/secciones/git.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
@@ -522,8 +522,8 @@
 
       <!-- Fila 8 -->
       <?php
-        include("secciones/contenedores.php");
-        include("secciones/openshift.php");
+        include("api/secciones/contenedores.php");
+        include("api/secciones/openshift.php");
       ?>
       <div class="row mb-2">
         <div class="col-md-6">
